@@ -68,7 +68,7 @@ An AI-powered career intelligence platform that predicts placement readiness, an
 
 FastAPI • React • TypeScript • SQLite • Machine Learning
 
-🔗 **Repository:** *(Add your SkillVerse repository link here)*
+🔗 **Repository:** https://github.com/Arjun-Ashkar/Skillverse.git
 
 ---
 
