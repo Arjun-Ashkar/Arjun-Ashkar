@@ -84,7 +84,7 @@ Spring Boot • React • MySQL • JWT • Hibernate
 
 ---
 
-## 🛒 Smart Public Distribution System
+## 🛒 Smart Public ration Distribution System
 
 A digital ration distribution platform with secure authentication, inventory management, and Aadhaar-based registration.
 
@@ -92,7 +92,7 @@ A digital ration distribution platform with secure authentication, inventory man
 
 Flask • React • MySQL
 
-🔗 **Repository:** *Coming Soon*
+🔗 **Repository:** https://github.com/Arjun-Ashkar/fair-ration-distribution-system-.git
 
 ---
 
