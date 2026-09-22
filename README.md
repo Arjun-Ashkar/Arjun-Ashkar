@@ -98,9 +98,21 @@ Flask • React • MySQL
 
 # 📖 Research
 
-### Predictive Analytics for Career Risk and Opportunity Analysis for Students
+### 🔥 Forest Fire Severity Prediction using Random Forest and Neural Network Stacking with SMOTE
 
-Published research introducing an Explainable AI framework for predicting student placement readiness using calibrated machine learning techniques.
+Published research on a hybrid stacking approach for forest fire prediction using **Random Forest, Neural Network, and Logistic Regression**. Applied **SMOTE** and feature engineering to address high-risk fire detection, achieving **87.2% accuracy** and **0.925 AUC** on a Kaggle dataset.
+
+**Publication:** IJIREEICE  
+**Status:** Published Paper
+
+---
+
+### 🤖 Predictive Analytics for Career Risk and Opportunity Analysis for Students
+
+Published research introducing an **Explainable AI framework** for predicting student placement readiness using **Random Forest, calibration techniques, and SHAP**. The model achieved **92.6% accuracy** and **0.92 weighted F1-score** on 5,000 student records.
+
+**Publication:** IJVRA  
+**Status:** Published — April 2026
 
 ---
 
